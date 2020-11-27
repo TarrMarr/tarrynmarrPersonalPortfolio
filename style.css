@@ -5,6 +5,7 @@ h1 {
 
 body {
     font-family: 'Oswald', sans-serif; 
+    background: #5e5a57;
 }
 
  /* styles for index.html   */
@@ -17,7 +18,7 @@ body {
 }
 
 .jumbotron {
-    background-color: #beafafdc;
+    background-color:#7a7672d0;
     margin-top: 23px;
     padding-bottom: 0%;
     padding-top: 2%;
