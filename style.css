@@ -1,11 +1,4 @@
-body {
-    background: url(bgMain.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
+/* Universal Styling */
 h1 {
     font-family: 'Special Elite', cursive;
 }
@@ -14,10 +7,19 @@ p {
     font-family: 'Oswald', sans-serif; 
 }
 
+ /* styles for index.html   */
+.firstPg {
+    background: url(bgMain.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 .jumbotron {
     background-color: #beafafdc;
-    padding-bottom: 0%;
-    padding-top: 5px;
+    padding-bottom: 2%;
+    padding-top: 2%;
 }
 
 footer {
@@ -25,3 +27,9 @@ footer {
     text-align: right;
     padding-right: 5px;
 }
+
+/* styles for projects.html */
+
+
+
+/* styles for contacts.html */
