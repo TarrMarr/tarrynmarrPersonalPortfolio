@@ -14,11 +14,13 @@
 An up to date portfolio site to be published to domain  
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://github.com/TarrMarr/tarrynmarrPersonalPortfolio/blob/main/screenshotIndex.JPG)
 
 ## Technologies
 * HTML5
 * CSS
+* Bootstrap
+* Google Fonts
 * JavaScript  
 
 ## Code Examples
