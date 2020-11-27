@@ -19,6 +19,8 @@ An up to date portfolio site to be published to domain
 ## Technologies
 * HTML5
 * CSS
+* Bootstrap
+* Google Fonts
 * JavaScript  
 
 ## Code Examples
