@@ -1,0 +1,27 @@
+body {
+    background: url(bgMain.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Special Elite', cursive;
+}
+
+p {
+    font-family: 'Oswald', sans-serif; 
+}
+
+.jumbotron {
+    background-color: #beafafdc;
+    padding-bottom: 0%;
+    padding-top: 5px;
+}
+
+footer {
+    font-size: 0.7rem;
+    text-align: right;
+    padding-right: 5px;
+}
