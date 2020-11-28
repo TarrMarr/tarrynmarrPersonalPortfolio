@@ -1,6 +1,7 @@
 /* Universal Styling */
 h1 {
     font-family: 'Special Elite', cursive;
+    color: #ffffff;
 }
 
 body {
@@ -36,7 +37,23 @@ a {
 }
 
 /* styles for projects.html */
-
+.card {
+    background-color: #a9a5a0;
+    color: #292929;
+}
 
 
 /* styles for contacts.html */
+
+
+/* Primary Colour Scheme;
+#7a7672
+#a9a5a0
+#4e4a47
+*/
+
+/* Secondary Colour Scheme;
+#d1b4ba
+#ffe6ec
+#a0848a
+*/
