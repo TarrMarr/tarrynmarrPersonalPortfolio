@@ -15,6 +15,7 @@ An up to date portfolio site to be published to domain
 
 ## Screenshots
 ![Example screenshot](https://github.com/TarrMarr/tarrynmarrPersonalPortfolio/blob/main/screenshotIndex.JPG)
+![Example screenshot](https://github.com/TarrMarr/tarrynmarrPersonalPortfolio/blob/main/screenshotProjects.JPG)
 
 ## Technologies
 * HTML5
