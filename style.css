@@ -38,9 +38,13 @@ a {
 
 /* styles for projects.html */
 .card {
+    color: #4e4a47;
     background-color: #a9a5a0;
-    color: #292929;
 }
+
+/* .card-img-top {
+    height: 350px;
+} */
 
 
 /* styles for contacts.html */
