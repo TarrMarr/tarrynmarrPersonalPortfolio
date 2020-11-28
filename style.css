@@ -42,6 +42,15 @@ a {
     background-color: #a9a5a0;
 }
 
+h5 {
+    font-family: 'Special Elite', cursive;
+    color: #3a3939;
+}
+
+.btn-sm {
+    background-color: #a0848a;
+}
+
 /* .card-img-top {
     height: 350px;
 } */
