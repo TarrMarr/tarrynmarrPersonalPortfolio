@@ -1,7 +1,7 @@
 /* Universal Styling */
-h1 {
+h1, h2 {
     font-family: 'Special Elite', cursive;
-    color: #ffffff;
+    color: whitesmoke;
 }
 
 body {
@@ -33,7 +33,53 @@ footer {
 
 a {
     color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: whitesmoke;
     text-decoration: underline;
+    font-size: 1.2rem;
+    transition: all 0.2s linear;
+}
+
+/* Styles for about.html */
+.who {
+    background-color: #4e4a47;
+    color: whitesmoke;
+    font-weight: 200;
+    font-size: 1.1rem;
+}
+
+.what {
+    background-color: #a9a5a0;
+    margin-bottom: 20px;
+}
+
+.what:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    font-size: 1.2rem;
+    transition: all 0.3s linear;
+}
+
+.where {
+    background-color: #5c5a5a;
+}
+
+.where:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    font-size: 1.2rem;
+    transition: all 0.3s linear;
+}
+
+.where ul{
+    list-style: url(checkIcon.svg);
 }
 
 /* styles for projects.html */
@@ -42,18 +88,23 @@ a {
     background-color: #a9a5a0;
 }
 
+.card:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    font-size: 1.2rem;
+    transition: all 0.3s linear;
+}
+
 h5 {
     font-family: 'Special Elite', cursive;
-    color: #3a3939;
+    color: #363636;
 }
 
 .btn-sm {
     background-color: #a0848a;
 }
-
-/* .card-img-top {
-    height: 350px;
-} */
 
 
 /* styles for contacts.html */
